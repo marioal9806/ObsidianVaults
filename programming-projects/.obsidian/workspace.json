@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "538137ab8c85476f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4710a967ae0c4b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00f8525af8ecb30b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mobile Outstanding MIDI App (MOMA)/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2e10ee5a7e12b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicines Inventory Tracker (MIT)/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7471c1cf2f488c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2518c9a268545ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d0695a75bc18acf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b1bcf185dde5d97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30cd13aa3b39af89",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2eea90234ef91ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bd3aa415ee70eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77ce06ed08d0d9da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medicines Inventory Tracker (MIT)/Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4396e60bdd639980",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medicines Inventory Tracker (MIT)/Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e82c2177969e2d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b9139a2e4f7bf8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Medicines Inventory Tracker (MIT)/Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f2e10ee5a7e12b6c",
+  "lastOpenFiles": [
+    "Mobile Outstanding MIDI App (MOMA)/Index.md",
+    "Medicines Inventory Tracker (MIT)/Index.md",
+    "Mobile Outstanding MIDI App (MOMA).md"
+  ]
+}

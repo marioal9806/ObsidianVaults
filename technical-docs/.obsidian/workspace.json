@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "42e5b201505d5549",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d52327bee948a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e35f5e61bb209d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "964edbef6cd372e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c32b87e42ea15b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca82cd8de45bf59a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab22c32dabee326c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b971e0101078b7ca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20c4d4082898ccc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf121a08f986877c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fd9b49b5d25633f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa8a6041b4946374",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b59e842e18d84312",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9116645c74002ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ca82cd8de45bf59a",
+  "lastOpenFiles": [
+    "BeagleBone Black.md"
+  ]
+}
